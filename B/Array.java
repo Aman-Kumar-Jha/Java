@@ -18,7 +18,7 @@ public static void main(String [] args) {
 		System.out.println("The array element at the index"+j+":"+a[j]);
 		System.out.println("Ther array element successfully accessed");
 	}catch(Exception e) {
-		System.out.println(e);
+		System.out.println(e+"Aman");
 	}
 }
 }
